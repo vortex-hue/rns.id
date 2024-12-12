@@ -1,6 +1,6 @@
 # RNS.ID | Infrastructure Technical Documentation: Listing Service Deployment
 
-_NB_ This is for my DevOps trial task
+_NB_ This is for my DevOps trial, you can checkout the live deployed version with terraform via [rns.id devops](https://rnsid-tobhp.ondigitalocean.app/docs/)
 
 ## Overview
 
